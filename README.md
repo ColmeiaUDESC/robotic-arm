@@ -6,12 +6,12 @@
 
 <!-- FOTO PRINCIPAL: salve a foto do braço montado como docs/images/braco.jpg -->
 <p align="center">
-  <img src="docs/images/59BCEE75-7147-4154-8358-EA1B1DC702B2.jpg"
+  <img src="images/59BCEE75-7147-4154-8358-EA1B1DC702B2.jpg"
        alt="Braço robótico montado"
        width="320">
 </p>
 <p align="center">
-  <video src="docs/images/CE313A71-366F-4B98-AA2D-FC6CEABA50F6.mov"
+  <video src="images/CE313A71-366F-4B98-AA2D-FC6CEABA50F6.mov"
          width="420"
          controls></video>
 </p>
