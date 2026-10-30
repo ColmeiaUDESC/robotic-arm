@@ -6,11 +6,15 @@
 
 <!-- FOTO PRINCIPAL: salve a foto do braço montado como docs/images/braco.jpg -->
 <p align="center">
-  <img src="docs/images/braco.jpg"
+  <img src="docs/images/59BCEE75-7147-4154-8358-EA1B1DC702B2.jpg"
        alt="Braço robótico montado"
        width="320">
 </p>
-
+<p align="center">
+  <video src="docs/images/CE313A71-366F-4B98-AA2D-FC6CEABA50F6.mov"
+         width="420"
+         controls></video>
+</p>
 Braço robótico de **6 graus de liberdade** impresso em 3D e controlado pelo computador via USB. A parte mecânica vem do projeto aberto [MasterJain/RoboticArm](https://github.com/MasterJain/RoboticArm); em cima dela foram refeitos a **alimentação dos servos**, o **firmware do Arduino** e um **programa em Python/Tkinter** para mover cada junta, gravar sequências de movimento e reproduzi-las.
 
 O projeto original era controlado por um aplicativo Bluetooth no celular. Esta versão troca o Bluetooth pelo cabo USB e permite controlar e programar o braço inteiro pela interface, sem digitar comandos.
